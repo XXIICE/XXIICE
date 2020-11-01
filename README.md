@@ -9,4 +9,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=xxiice&show_icons=true&locale=en&theme=dracula" alt="xxiice" /></p>
 
-<p align="center" padding="5px"><img  src="https://github-readme-stats.vercel.app/api?username=xxiice&show_icons=true&theme=dracula&locale=en" alt="xxiice" /></p>
+<p align="center" padding="5px"><img  src="https://github-readme-stats.vercel.app/api?username=xxiice&show_icons=true&theme=dracula&locale=en&include_all_commits" alt="xxiice" /></p>
